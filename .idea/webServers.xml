@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="2e96884e-b5f1-42e9-a26c-bf0e2721cc4c" name="NewPortfolio" url="http://localhost:63342/startbootstrap-agency-gh-pages/index.html">
+        <fileTransfer port="0" mountedRoot="D:\jules\Documents\startbootstrap-agency-gh-pages" accessType="MOUNT" />
+      </webServer>
+    </option>
+  </component>
+</project>
